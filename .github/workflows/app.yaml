@@ -1,4 +1,4 @@
-name: Azure Login via OIDC
+name: Azure Login via OIDC #sample-demo
 
 on:
   push:
